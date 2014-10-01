@@ -99,11 +99,11 @@ require_once('function.php');
 								<table class="table table-bordered">
 									<tr>
 										<td>文档最后更新</td>
-										<td>2014年06月13日</td>
+										<td>2014年09月29日</td>
 									</tr>
 									<tr>
 										<td>主题最新版本</td>
-										<td>V 1.2.2</td>
+										<td>V 1.4</td>
 									</tr>
 								</table>
 							</div><!-- /image_container -->
@@ -121,13 +121,14 @@ require_once('function.php');
 								<p>在购买本主题前，请确保你已经了解并做好以下几点：</p>
 								<ol>
 									<li>本手机主题需要配合一个手机主题切换插件<a target="_blank" href="http://devework.com/dw-mobile-switcher.html">DW Mobile Switcher</a> 使用。<strong>网站采取了缓存机制</strong>的请确保你的网站在手机访问的时候DW Mobile Switcher 插件可以正常工作。<a target="_blank" href="http://devework.com/dw-mobile-switcher.html#test">自己测试一下</a></li>
-									<li>本主题具备域名授权功能，一份主题价格授权1个站点。</li>
+									<li><strong>注意：</strong>要使用本主题，主机（服务器）环境必须为PHP5.3或5.4+安装Zend组件+开启相关函数。若提示可运行，表示能使用本主题。若不行，请安装或升级相应组件。检测方法：<a style="color: #ff0000;" href="http://store.devework.com/zend-test.html" target="_blank">http://store.devework.com/zend-test.html</a></li>
+									<li>本主题具备授权功能，一份主题价格授权1个站点。</li>
 									<li>已购买用户在产品生命期内可以免费更新升级。购买后无个性化的代码修改服务，如有额外功能需求，需额外加价进行定制（额外定制请直接联系主题作者）。</li>
 									<li>购买者购买主题仅限自用，不得在网络上共享或者二次销售，否则作者将保留追究责任的权利。购买者使用该主题有能力者可进行相关代码修改或者二次开发，但所有开发行为仅限自用。</li>
 									<li>购买者有权利参与主题功能的讨论（如提交bug）及提出个人需求的建议，符合需求的可以在下次更新主题时候添加；</li>
 									<li>由于主题的特殊性，一旦付款，则表示确认购买主题，不接受退款。</li>
 								</ol>
-								<p>未尽事宜详见<a href="http://devework.com/theme/devemobile/docs/know.html">《DeveMobile、EaseMobile主题购买须知》</a>，一旦付款，即表示您已经阅读完所有相关内容本承认遵守该《须知》。</p>
+								<p>未尽事宜详见<a target="_blank" href="http://store.devework.com/terms-and-conditions">《DW商城商品交易条款与用户协议》</a>，一旦付款，即表示您已经阅读完所有相关内容本承认遵守该《DW商城商品交易条款与用户协议》。</p>
 							</div>
 
 							<!-- <div class="col-xs-12 col-sm-5 image_container">
@@ -138,15 +139,9 @@ require_once('function.php');
 
 						<div class="row">
 						<div class="col-xs-12">
-						<h4>购买方式：支付宝转账购买</h4>							
-						<div  style="text-indent:2em">					
-
-						<p>支付宝账号：<img src="<?php echo $path ?>docs/img/mail.png" alt="支付宝账号" style="width:167px;">（姓名：*健辉）</p>
-						<p>推荐使用支付宝钱包接扫描二维码支付：</p>
-						<p><img src="<?php echo $path ?>docs/img/qr200.png" alt="二维码支付" style="width:200px;"></p>
-						<p><strong>备注填：EaseMobile+您的QQ 号。购买后请加我qq，12小时内我会处理后续工作（建议付款前<a href="http://devework.com/contact">联系我</a>）。</strong></p>
-								<p>另外也支持Paypal 以及工商银行转账，欲采用该方式的请联系我。</p>
-								</div></div>
+						<h4>购买地址</h4>							
+			<p><a href="http://store.devework.com/product/easemobile" target="_blank">http://store.devework.com/product/easemobile</a></p>
+			<p>请自行在DW 商城注册账号购买，请参考<a href="http://store.devework.com/guide" target="_blank">《DW商城收费商品购买流程》</a>，有问题可以<a target="_blank"  href="http://devework.com/contact">联系我</a>。</p></div>
 							</div>
 
 						

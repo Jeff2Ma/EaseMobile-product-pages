@@ -7,7 +7,7 @@
                 <li><a href="demo.html">演示</a></li>
                 <li><a href="docs.html">文档</a></li>
                 <li><a target="_blank" href="http://devework.com/contact">联系</a></li>
-               <li><a href="http://devework.com/theme/easemobile/docs.html#before_buy">立即购买</a></li>
+               <li><a href="http://store.devework.com/product/easemobile">立即购买</a></li>
               </ul>
           </div>
     </div>

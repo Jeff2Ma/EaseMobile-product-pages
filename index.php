@@ -52,7 +52,7 @@ require_once('function.php');
                   </p>
                   <p class="intro_btn">
                     <span class="download">
-                        <a href="http://devework.com/theme/easemobile/docs.html#before_buy" title="立即购买">立即购买</a>
+                        <a href="http://store.devework.com/product/easemobile" title="立即购买">立即购买</a>
                      
                     </span>
                         <span class="preview">
